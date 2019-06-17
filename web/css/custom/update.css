@@ -1,0 +1,28 @@
+body {
+}
+.error {
+    font-size: 10px;
+    color: red;
+}
+#h1_01 {
+    color: white;
+}
+
+#form {
+    padding-bottom: 20px;
+    margin: auto;
+}
+
+#form_input {
+    padding: 20px 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+
+#register_btn {
+    width: 100%;
+}
+
+#form_01 {
+    margin: auto;
+}

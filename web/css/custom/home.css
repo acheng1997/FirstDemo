@@ -1,0 +1,25 @@
+body {
+
+}
+
+#h1_01 {
+    color: white;
+}
+
+#my_table {
+    text-align: center;
+    width: 95%;
+    margin: auto;
+    position: relative;
+}
+
+th {
+    text-align: center;
+}
+
+#my_table nav {
+    position: absolute;
+    float: right;
+    right: 0px;
+}
+

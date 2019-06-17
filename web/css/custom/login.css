@@ -1,0 +1,74 @@
+#row_01 {
+    text-align: center;
+    height: 610px;
+    background-image: url("../../img/01.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+.error {
+    font-size: 10px;
+    color: red;
+}
+#form {
+    /*text-align: center;*/
+    padding-top: 40px;
+    background-color: white;
+    width: 400px;
+    height: 450px;
+    border-radius: 15px;
+    position: absolute;
+    top: 60px;
+    left: 435px;
+    display: none;
+    box-shadow: 5px 5px 6px #adadad;
+}
+
+#div_GO {
+    margin: auto;
+}
+
+#a_go {
+    border: none;
+    font-size: 30px;
+    background-color: transparent;
+    color: white;
+}
+
+#exit {
+    position: absolute;
+    top: 10px;
+    right: 8px;
+}
+
+#exit_btn {
+    border: none;
+    font-size: 20px;
+    background-color: transparent;
+}
+
+#login_p {
+    text-align: center;
+    font-size: 50px;
+    color: #2aabd2;
+}
+
+#form_input {
+    margin: 5px auto;
+    width: 80%;
+}
+
+#checkbox_01 {
+    position: relative;
+    float: left;
+    left: 0px;
+}
+
+.my_input {
+    margin: 5px auto;
+    height: 45px;
+}
+
+#login_btn {
+    width: 100%;
+}
